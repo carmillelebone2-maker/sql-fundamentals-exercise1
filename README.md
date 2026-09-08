@@ -1,1 +1,0 @@
-# sql-fundamentals-exercise1
